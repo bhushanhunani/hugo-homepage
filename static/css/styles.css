@@ -35,7 +35,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 
 /*HomePage Start*/
 .hero_figure img {
-    max-width: 65%;
+    max-width: 85%;
     -webkit-mask-size: unset !important;
 }
 

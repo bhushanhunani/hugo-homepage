@@ -1,4 +1,13 @@
 /*Header Start*/
+
+body {
+    font-family: 'Quicksand', sans-serif;
+}
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 700;
+}
+
 .navbar ul.nav.navbar-nav {
     margin-right: 20px !important;
 }
@@ -21,13 +30,15 @@
     transform: scale(1.03);
 }
 
-
-
-
 /*Header End*/
 
 
 /*HomePage Start*/
+.hero_figure img {
+    max-width: 80%;
+    -webkit-mask-size: unset !important;
+}
+
 .hero {
     background-color: #f1f6f9;
     background-image: url(https://demo.gethugothemes.com/copper/site/images/brushes/banner.svg);
@@ -35,6 +46,16 @@
     background-size: 1200px;
     background-repeat: repeat-x;
 }
+
+.about_content-inner .btn.btn-primary.mr-3.btn-zoom {
+    display: none;
+}
+.about_content-inner .btn {
+    background-color: #43a7e0;
+    color: #fff;
+    border-color: #43a7e0;
+}
+
 .service {
     background-image: url(https://demo.gethugothemes.com/copper/site/images/brushes/section-top.svg),url(https://demo.gethugothemes.com/copper/site/images/brushes/section-bottom.svg);
     background-position: 50% 0,50% 100%;

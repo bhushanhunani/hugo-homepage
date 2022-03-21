@@ -1,29 +1,26 @@
 ---
 enable: true
-topTitle: Working Area
+topTitle: Our
 title: >
-  ## Creative Services
+  ## Services
 
-  Enjoy team diversity and increase their networks among others people in
-  various fields by provided.
+
 service:
   - content: >
-      #### UI/UX Design 
+      #### TAPP Mobile E-App For Selling Policies
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Straight-through processing of insurance applications on mobile devices and desktops. Easy-to-use, online and offline.
+
     image: images/service/ui-ux.svg
   - content: >
-      #### Web Development 
+      #### Product Selector Mobile App For Selling Policies
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Interactive Mobile Life Insurance premium calculator, trusted by over 43,000 insurance agents and professionals.
     image: images/service/web.svg
   - content: >
-      #### Creative Design 
+      #### Inspection Mobile App For P&C Claims
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Reduce significant costs and labor in property claims processing with our easy-to-use mobile app.
     image: images/service/creative.svg
   - content: >
       #### Branding
@@ -32,14 +29,8 @@ service:
       tempor invidunt ut labore et dolore magna aliquyam erat.
     image: images/service/branding.svg
   - content: >
-      #### UI/UX Design
+      #### Insurance Software Consulting Services
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      DataMart, system integration, customized data processing software for life insurance policies, ALIS, and more!
     image: images/service/ui-ux.svg
-  - content: >
-      #### Web Development
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/web.svg

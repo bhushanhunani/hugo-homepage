@@ -86,7 +86,23 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     background-repeat: repeat-x;
     background-color: #f1f6f9;
 }
+.about_content-thumb .about_content-thumb-image img {
 
+    -webkit-mask-size: cover !important;
+}
+
+.hero_figure {
+    padding-left: 10% !important;
+}
+.hero_content p {
+    font-size: inherit;
+}
+.hero .col-lg-6:last-child {
+    padding-left: 10%;
+}
+.testimonial__slider_item-author {
+    line-height: 23px;
+}
 .about_content-inner {
     background: #154788;
 }

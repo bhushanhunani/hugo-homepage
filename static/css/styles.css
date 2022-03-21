@@ -1,3 +1,116 @@
-nav.navbar.navbar-expand-lg.fixed-top {
+/*Header Start*/
+.navbar ul.nav.navbar-nav {
+    margin-right: 20px !important;
+}
+.btn-primary {
+    color: #000;
+    background-color: transparent;
+    border-color: #43a7e0;
+}
+.btn {
+    padding: 12px 25px;
+    border-radius: 7px;
+}
+.btn-primary:hover {
+    color: #fff;
+    background-color: #43a7e0;
+    border-color: #43a7e0;
+}
+.btn-zoom:hover {
+    box-shadow: 0 8px 20px rgb(67 167 224 / 30%);
+    transform: scale(1.03);
+}
+
+
+
+
+/*Header End*/
+
+
+/*HomePage Start*/
+.hero {
+    background-color: #f1f6f9;
+    background-image: url(https://demo.gethugothemes.com/copper/site/images/brushes/banner.svg);
+    background-position: 50% 100%;
+    background-size: 1200px;
+    background-repeat: repeat-x;
+}
+.service {
+    background-image: url(https://demo.gethugothemes.com/copper/site/images/brushes/section-top.svg),url(https://demo.gethugothemes.com/copper/site/images/brushes/section-bottom.svg);
+    background-position: 50% 0,50% 100%;
+    background-size: 1200px;
+    background-repeat: repeat-x;
+    background-color: #f1f6f9;
+}
+.resume__background {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    transform: none;
+    background-image: url(https://demo.gethugothemes.com/copper/site/images/brushes/section-top.svg),url(https://demo.gethugothemes.com/copper/site/images/brushes/section-bottom.svg);
+    background-position: 50% 0,50% 100%;
+    background-size: 1200px;
+    background-repeat: repeat-x;
+    background-color: #f1f6f9;
+}
+
+.about_content-inner {
+    background: #154788;
+}
+.resume .text-light h2,
+.resume .text-light span,
+.resume .text-light p {
+    color: #000;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*footer End*/
+
+
+
+
+
+
+/*footer Start*/
+
+.footer {
+    background-color: #1b2031;
+    position: relative;
+    margin-top: 150px;
+    background-image: url(https://demo.gethugothemes.com/copper/site/images/brushes/footer.svg);
+    background-position: 0% 0%;
+    background-size: 1200px;
+    background-repeat: repeat-x;
+}
+.footer__background_shape {
     display: none;
+}
+/*footer End*/
+
+
+
+@media (min-width: 1200px) {
+.container-xl, .container-lg, .container-md, .container-sm, .container {
+    max-width: 1250px;
+}
+
 }

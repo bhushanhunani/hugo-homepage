@@ -2,7 +2,7 @@ baseURL = "https://hugo-home-page.netlify.app/"
 languageCode = "en-us"
 paginate = 6
 theme = "portio-hugo-master"
-title = "portio"
+title = "Tapp Solutions"
 
 # Main Menu
 [[menu.main]]
@@ -10,26 +10,22 @@ name = "Home"
 url = "/"
 weight = 1
 [[menu.main]]
-name = "About"
-url = "#about"
+name = "About Us"
+url = "#"
 weight = 2
 [[menu.main]]
-name = "Service"
-url = "#service"
+name = "Product and services"
+url = "#"
 weight = 3
 
 [[menu.main]]
-name = "Skills"
-url = "#skills"
+name = "Testimonial"
+url = "#"
 weight = 6
 [[menu.main]]
-name = "Blog"
-url = "#blog"
+name = "Contact us"
+url = "#"
 weight = 7
-[[menu.main]]
-name = "Contact"
-url = "#contact"
-weight = 8
 
 # Sitemap Menu
 [[menu.sitemap]]

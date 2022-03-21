@@ -1,13 +1,10 @@
 ---
 enable: true
-topTitle: Hello, Ravi Bhai
+topTitle: Insurance agents Use our
 content: >
-  # BHushan Borse
-
-  Enjoy team diversity and increase their networks among others people
-  in various fields by
-buttonName: Contact me
-buttonURL: contact
+  # voice sign to Safely finalize new policies
+buttonName: Join Them
+buttonURL: join-them
 image: images/hero/2960351.jpg
 videoThumb: images/hero/popup-thumb.png
 videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ

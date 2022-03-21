@@ -1,19 +1,28 @@
 ---
 enable: true
-topTitle: Testimonials
+topTitle: OUR
 title: >
-  ## What People Say About Me?
+  ## CLIENT REVIEWS
 
 testimonial:
-  - name: Ryan Cook
-    comment: Takimata sanctus est lorem ipsum dolor sit amet lorem ipsum dolor sit amet consetur sad ipscing elitr sed diam nonumy eirmod tempor invidunt labore dolore magna.
-    time: Jan 20, 2020
+  - name: KATHY DUPREE
+    comment: I have had the pleasure of working with Michael for several years. Initially he helped with support issues with our Policy Administrative System. In ’07 we worked closely in a much bigger way during the replatforming of that system. Most recently, he has worked on various conversion and reconciliation efforts, and as well continues with new application development to complement our existing …
+    time: Programming Manager At Columbian Financial Group
     star: 5
-  - name: Justin Trudo
-    comment: Takimata sanctus est lorem ipsum dolor sit amet lorem ipsum dolor sit amet consetur sad ipscing elitr sed diam nonumy eirmod tempor invidunt labore dolore magna.
-    time: Jan 16, 2020
+
+    
+  - name: MICHAEL KLINE
+    comment: I can’t thank you enough for your help with the Preneed data mart. We faced so many challenges with the ALIS system and the quality of the data that I can’t begin to enumerate all of them. Your programming approach is linear, thorough, consistent, and always an eye on documenting what we did and why. Starting out the project I expected you would learn more from us than we would learn from you …
+    time: Business Intelligence Specialist, Data Services, Assurant
     star: 4
-  - name: Franky Filth
-    comment: Takimata sanctus est lorem ipsum dolor sit amet lorem ipsum dolor sit amet consetur sad ipscing elitr sed diam nonumy eirmod tempor invidunt labore dolore magna.
-    time: Mar 08, 2020
+
+  - name: PEGGY RUBIN
+    comment: Michael has an in-depth understanding of the Insurance Industry and his software solutions demonstrate this knowledge. TAPP is efficient and saves the entry person time as well as saving phone calls to request further information. He is innovative and provides solutions to problems, not just canned software. Well worth trying!!
+    time: Former Executive VP & COO At Columbian Mutual Life INC.CO
     star: 3
+
+  - name: MIKE SIMARD
+    comment: AppLoader allows the agent to deliver their applications to us regardless of whether they are in their office, their car or their client’s home; This allows the agent to stay in the field longer and not have to return to the office at the end of the day to copy and fax their applications. AppLoader complements our other mobile initiatives our iPad paperless system and our Mobile Premium …
+    time: Former Executive VP & COO At Columbian Mutual Life INC.CO
+    star: 2
+  

@@ -11,26 +11,20 @@ service:
 
       Straight-through processing of insurance applications on mobile devices and desktops. Easy-to-use, online and offline.
 
-    image: images/service/ui-ux.svg
+    image: images/service/icon-1.png
   - content: >
       #### Product Selector Mobile App For Selling Policies
 
       Interactive Mobile Life Insurance premium calculator, trusted by over 43,000 insurance agents and professionals.
-    image: images/service/web.svg
+    image: images/service/icon-2.png
   - content: >
       #### Inspection Mobile App For P&C Claims
 
       Reduce significant costs and labor in property claims processing with our easy-to-use mobile app.
-    image: images/service/creative.svg
-  - content: >
-      #### Branding
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/branding.svg
+    image: images/service/icon-3.png
   - content: >
       #### Insurance Software Consulting Services
 
       DataMart, system integration, customized data processing software for life insurance policies, ALIS, and more!
-    image: images/service/ui-ux.svg
+    image: images/service/icon-4.png
 

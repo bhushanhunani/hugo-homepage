@@ -35,18 +35,26 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 
 /*HomePage Start*/
 .hero_figure img {
-    max-width: 80%;
+    max-width: 65%;
     -webkit-mask-size: unset !important;
 }
 
-.hero {
-    background-color: #f1f6f9;
+.hero_background-svg:before {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
     background-image: url(https://demo.gethugothemes.com/copper/site/images/brushes/banner.svg);
-    background-position: 50% 100%;
-    background-size: 1200px;
+    background-position: center;
+    background-size: cover;
     background-repeat: repeat-x;
+    width: 100%;
+    height: 120px;
+    z-index: 9;
 }
-
+.navbar-brand img {
+    max-width: 160px;
+}
 .about_content-inner .btn.btn-primary.mr-3.btn-zoom {
     display: none;
 }
@@ -55,7 +63,6 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     color: #fff;
     border-color: #43a7e0;
 }
-
 .service {
     background-image: url(https://demo.gethugothemes.com/copper/site/images/brushes/section-top.svg),url(https://demo.gethugothemes.com/copper/site/images/brushes/section-bottom.svg);
     background-position: 50% 0,50% 100%;
@@ -63,7 +70,10 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     background-repeat: repeat-x;
     background-color: #f1f6f9;
 }
-.resume__background {
+.service__slider_item {
+    min-height: 450px;
+}
+.resume__background { 
     height: 100%;
     width: 100%;
     position: absolute;
@@ -85,7 +95,9 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 .resume .text-light p {
     color: #000;
 }
-
+.footer__cta {
+    align-items: center;
+}
 
 
 
@@ -124,6 +136,16 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 }
 .footer__background_shape {
     display: none;
+}
+a.text-light:hover, a.text-dark:hover {
+    color: #5ab445 !important;
+}
+.footer__footer {
+    padding: 15px 0 0;
+    border-top: 1px solid rgba(255,255,255,.2);
+}
+.footer__widget {
+    padding: 100px 0 0;
 }
 /*footer End*/
 

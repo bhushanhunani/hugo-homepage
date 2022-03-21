@@ -3,6 +3,8 @@ enable: true
 topTitle: Insurance agents Use our
 content: >
   # voice sign to Safely finalize new policies
+  
+  Tapp Solutions helps life and P&C insurance companies and agents automate sales, claims and inspections with mobile application software.
 buttonName: Join Them
 buttonURL: join-them
 image: images/hero/hero-right.png

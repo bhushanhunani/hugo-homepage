@@ -1,17 +1,17 @@
 ---
 enable: true
-topTitle: My Skills
+topTitle: ABOUT
 content: >
-  ## Why hire me for your next project?
+  ## TAPP SOLUTIONS
 
-  My goal is to build a strong supportive professional network among all freelancers and startups in order to improve their performance.
+  Our signature products include:
 
-image: images/skill/skill_image.jpg
+  Tapp Solutions helps life and P&C insurance companies and agents automate sales, claims and inspections with mobile application software. Our software allows companies to sell high-quality policies faster, collect payments anywhere, and complete more inspections in less time.
+
+image: images/skill/skill_image.png
 
 skill:
-  - title: HTML
-    percent: 69
-  - title: CSS
-    percent: 60
-  - title: Javascript
+  - title: Our Mission Statement
     percent: 85
+  - title: Our Founder
+    percent: 64

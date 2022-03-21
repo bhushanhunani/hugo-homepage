@@ -29,36 +29,39 @@ weight = 7
 
 # Sitemap Menu
 [[menu.sitemap]]
-name = "About me"
-url = "about"
+name = "Home"
+url = "#"
 weight = 1
 [[menu.sitemap]]
-name = "Frequently Ask Question"
+name = "About Us"
 url = "#"
 weight = 2
 [[menu.sitemap]]
-name = "Privacy & Policy"
+name = "Product and services"
 url = "#"
 weight = 3
 [[menu.sitemap]]
-name = "Latest Article"
+name = "Testimonial"
 url = "#"
 weight = 4
+[[menu.sitemap]]
+name = "Contact us"
+url = "#"
+weight = 4 
 
 [params]
 blogPageURL = "blog"
 contactLink = "contact"
-copyright = "All right reserved copyright © Portio 2020"
+copyright = "Tapp Solutions, Llc. Copyright 2018 To 2022. All Rights Reserved."
 footerLogo = "images/contact/logo.png"
 formspreeURL = "YOUR FORMSPREE URL"
 googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
 logo = "images/site-navigation/logo1.png"
  
 [params.address]
-address = "23 Khan Niketon, Grand Street, NYK."
-email = "hello@example.com"
-openingHours = "Open from 10am to 6pm (close at 5pm Sundays)"
-phone = "+(448) 833 5272 332"
+address = "190 Bluegrass Valley Pkwy Alpharetta, GA 30005 (United States)"
+email = "info@tappsolutions.com"
+phone = "(+1) 404-618-0606"
 
 [params.map]
 APIkey = "YOUR GOOGLE MAP API"

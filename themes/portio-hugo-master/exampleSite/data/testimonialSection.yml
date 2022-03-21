@@ -1,14 +1,16 @@
 ---
 enable: true
-topTitle: Testimonials
+topTitle: OUR
 title: >
-  ## What People Say About Me?
+  ## CLIENT REVIEWS
 
 testimonial:
-  - name: Ryan Cook
-    comment: Takimata sanctus est lorem ipsum dolor sit amet lorem ipsum dolor sit amet consetur sad ipscing elitr sed diam nonumy eirmod tempor invidunt labore dolore magna.
-    time: Jan 20, 2020
+  - name: KATHY DUPREE
+    comment: I have had the pleasure of working with Michael for several years. Initially he helped with support issues with our Policy Administrative System. In ’07 we worked closely in a much bigger way during the replatforming of that system. Most recently, he has worked on various conversion and reconciliation efforts, and as well continues with new application development to complement our existing …
+    time: Programming Manager At Columbian Financial Group
     star: 5
+
+    
   - name: Justin Trudo
     comment: Takimata sanctus est lorem ipsum dolor sit amet lorem ipsum dolor sit amet consetur sad ipscing elitr sed diam nonumy eirmod tempor invidunt labore dolore magna.
     time: Jan 16, 2020
@@ -17,3 +19,4 @@ testimonial:
     comment: Takimata sanctus est lorem ipsum dolor sit amet lorem ipsum dolor sit amet consetur sad ipscing elitr sed diam nonumy eirmod tempor invidunt labore dolore magna.
     time: Mar 08, 2020
     star: 3
+  
